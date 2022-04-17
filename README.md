@@ -5,6 +5,7 @@ This respository contains a series of java projects covering topics accross **Da
 | Title | Topic |  Link  |
 | ------------- | ------------- |------------- |
 | Personal Website  | https://52147.github.io/CV/  |https://github.com/52147/CV  |
+| True Friend Web | https://52147.github.io/True-Friend/ |https://github.com/52147/True-Friend  |
 
 
 ## Data Structure
